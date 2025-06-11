@@ -1,0 +1,6 @@
+@CraftManagementAPI_HostAddress = http://localhost:5182
+
+GET {{CraftManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
